@@ -1,0 +1,6 @@
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\student.cs\student.cs\bin\Debug\student.cs.exe.config
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\student.cs\student.cs\obj\Debug\student.cs.csprojResolveAssemblyReference.cache
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\student.cs\student.cs\bin\Debug\student.cs.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\student.cs\student.cs\bin\Debug\student.cs.pdb
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\student.cs\student.cs\obj\Debug\student.cs.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\student.cs\student.cs\obj\Debug\student.cs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\Program.cs\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\Program.cs\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\Program.cs\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\Program.cs\Program.cs\obj\Debug\Program.cs.csprojResolveAssemblyReference.cache
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\Program.cs\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 1\Program.cs\Program.cs\obj\Debug\Program.cs.pdb

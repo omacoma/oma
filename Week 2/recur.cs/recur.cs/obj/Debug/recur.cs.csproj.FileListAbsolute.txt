@@ -1,0 +1,6 @@
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 2\recur.cs\recur.cs\bin\Debug\recur.cs.exe.config
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 2\recur.cs\recur.cs\bin\Debug\recur.cs.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 2\recur.cs\recur.cs\bin\Debug\recur.cs.pdb
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 2\recur.cs\recur.cs\obj\Debug\recur.cs.csprojResolveAssemblyReference.cache
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 2\recur.cs\recur.cs\obj\Debug\recur.cs.exe
+C:\Users\Bekzat\Desktop\OMA\Prog tech\Week 2\recur.cs\recur.cs\obj\Debug\recur.cs.pdb
